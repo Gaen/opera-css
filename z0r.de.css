@@ -1,0 +1,20 @@
+#flashloop { 
+	margin-top:	0px !important;
+}
+
+div#flashloop > * { 
+	height:		768px;
+	width:		1024px;
+}
+
+div#mysitelogo { 
+	display:	none;
+}
+
+#footer { 
+	margin-top:	0px !important;
+}
+
+.addthis_toolbox{
+	display:	none !important;
+}
